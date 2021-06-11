@@ -1,0 +1,18 @@
+* {
+    margin: 0 auto;
+}
+.round { 
+    width: 10em;
+    height: 10em;
+    border-radius: 50%;
+    background: red;
+    position: relative;
+    /*left: 15em;*/
+    top: 15em;
+}
+.rec {
+    width: 40em;
+    height: 20em;
+    border: 2px solid black;
+
+}
